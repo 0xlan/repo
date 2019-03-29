@@ -1,0 +1,23 @@
+<package>
+	<id>com.lanvsblue.TYWifiManager</id>
+	<name>TYWifiManager</name>
+	<version>0.1-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>依附于目标App，Hook app的方法，并把消息转发给操作Tweak，如TYWifiManager</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
